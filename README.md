@@ -1,4 +1,4 @@
-Yo coloque esto: # Ejercicios de Programación Orientada a Objetos en Python
+ # Ejercicios de Programación Orientada a Objetos en Python
 
 Este repositorio contiene ejercicios desarrollados en Python para practicar Programación Orientada a Objetos (POO).
 
