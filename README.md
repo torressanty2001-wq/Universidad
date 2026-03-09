@@ -45,6 +45,3 @@ Se implementa una clase **Vehiculo** con:
 - Acelerar.
 - Frenar.
 - Verificar límite de velocidad.
-
-## Autor
-Weylis Sol
