@@ -47,4 +47,4 @@ Se implementa una clase **Vehiculo** con:
 - Verificar límite de velocidad.
 
 ## Autor
-Weylis Sola
+Weylis Sol
